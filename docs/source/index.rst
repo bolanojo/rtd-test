@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-Change to test Webhook
+Change to test custom Webhook
 
 Indices and tables
 ==================
