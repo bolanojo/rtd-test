@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'rtd_test'
-copyright = '2016, Jorge Bolaños'
-author = 'Jorge Bolaños'
+copyright = '2016, Jorge Bolanos'
+author = 'Jorge Bolanos'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -223,7 +223,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'rtd_test.tex', 'rtd\\_test Documentation',
-     'Jorge Bolaños', 'manual'),
+     'Jorge Bolanos', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
